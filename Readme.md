@@ -60,3 +60,15 @@ pip install -r requirements.txt
 4️⃣ Run the app
 
 streamlit run app.py
+---
+
+## Microsoft Power Platform Integration Ideas
+
+**Proposed enhancement:** AI request management and response logging with Power Apps
+
+This repository also contains Power Platform learning
+examples and design documentation. These additions are
+concepts, not completed or deployed integrations.
+
+See [Power Platform Documentation](power-platform/README.md).
+
